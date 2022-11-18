@@ -6,7 +6,7 @@
 }
 .header{
     width: 100vw;
-    height: 50vh;
+    height: 30vh;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -20,7 +20,8 @@
 }
 .notes{
     width: 100vw;
-    height: 50vh;
+    height: 100vh;
+    margin-top:2rem;
     display: flex;
     justify-content: center;
     align-items: center;
